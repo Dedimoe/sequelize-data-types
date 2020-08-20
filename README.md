@@ -147,3 +147,4 @@ Timeline.create({ range: [null, new Date(Date.UTC(2016, 0, 1))] });
 // range = '[-infinity,"2016-01-01 00:00:00+00:00")'
 Timeline.create({ range: [-Infinity, new Date(Date.UTC(2016, 0, 1))] });
 ```
+Src: <a href="https://sequelize.org/v5/manual/data-types.html">from here</a>
